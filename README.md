@@ -1,2 +1,2 @@
 # roguelike
-2D Roguelike Unity
+2D roguelike, Unity
